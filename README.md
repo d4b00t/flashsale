@@ -2,14 +2,6 @@
 
 # Table of Contents
 
-- [Bahasa Indonesia](#bahasa-indonesia)
-  - [Fitur Utama](#fitur-utama)
-  - [Persyaratan](#persyaratan)
-  - [Persiapan Sebelum Instalasi](#persiapan-sebelum-instalasi)
-  - [Instalasi](#instalasi)
-    - [Menggunakan Git Clone](#menggunakan-git-clone)
-    - [Menggunakan Download Zip](#menggunakan-download-zip)
-  - [Penutup](#penutup)
 - [English](#english)
   - [Key Features](#key-features)
   - [Requirements](#requirements)
