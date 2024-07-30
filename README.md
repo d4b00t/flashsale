@@ -7,8 +7,6 @@
   - [Requirements](#requirements)
   - [Pre-Installation Preparation](#pre-installation-preparation)
   - [Installation](#installation)
-    - [Using Git Clone](#using-git-clone)
-    - [Using Download Zip](#using-download-zip)
   - [Conclusion](#conclusion)
 
 ## About
